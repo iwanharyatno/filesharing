@@ -1,4 +1,4 @@
-## FILE SHARING
+# FILE SHARING
 
 A single-paged website with simple file upload functionality that can be used to transfer file from your smartphone to your Computer via Local Network. And really this project is nothing more than a simple file upload system with php and javascript.
 
