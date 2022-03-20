@@ -17,7 +17,7 @@ filesharing/
     style.css
     upload.php
 ```
-    The `shared` folder will be used to store the uploaded files. Make sure the `shared` folder is writeable.
+   The `shared` folder will be used to store the uploaded files. Make sure the `shared` folder is writeable.
 
 #### php.ini file configuration
 
